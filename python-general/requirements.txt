@@ -5,4 +5,3 @@ numpy==1.15.4
 scikit_learn==0.21.3
 bokeh==1.4.0
 typing-extensions==3.7.4.2
-numba==0.51.2
